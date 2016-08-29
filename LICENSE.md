@@ -1,6 +1,4 @@
+#License
 
-#License:
-None.
+This project comes with no license or guarentee that it will work.
 
-Last updated:
-07:17 29/08/2016
